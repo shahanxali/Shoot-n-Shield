@@ -15,11 +15,14 @@ Level Progression: As you survive, the difficulty ramps up — new levels introd
 Health Management: Each enemy that slips past decreases your health. The longer you survive, the more crucial health becomes.
 Simple, Engaging Controls: Position, aim, and shoot from a fixed point, focusing purely on timing and accuracy.
 
-## Screenshots
+## 📸 Screenshots
 
 ![Menu](Screenshots/1.png)
+
 ![Level1](Screenshots/2.png)
+
 ![Level3](Screenshots/5.png)
+
 ![end](Screenshots/6.png)
 
 ## 🕹️ How to Play
