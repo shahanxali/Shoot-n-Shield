@@ -18,7 +18,9 @@ Simple, Engaging Controls: Position, aim, and shoot from a fixed point, focusing
 ## Screenshots
 
 ![Menu](Screenshots/1.png)
-
+![Level1](Screenshots/2.png)
+![Level3](Screenshots/5.png)
+![end](Screenshots/6.png)
 
 ## 🕹️ How to Play
 
